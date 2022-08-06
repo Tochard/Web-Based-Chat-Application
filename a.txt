@@ -1,0 +1,4 @@
+dbname: id19198017_tchatapp
+dbuser: id19198017_tochard
+dbpassword: {2WXMzl<sIyOZEtI
+DB Host: localhost
