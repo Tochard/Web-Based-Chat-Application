@@ -47,7 +47,7 @@
               </p>
               <div class="cta">
                 <a href="signup.php" class="btn">Sign Up</a>
-                <a href="Login.php" class="btn">Login</a>
+                <a href="login.php" class="btn">Login</a>
               </div>
             </div>
 
